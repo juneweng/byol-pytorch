@@ -1,0 +1,4 @@
+[Epoch 0, batch 0] loss: 4.03707
+[Epoch 0, batch 50] loss: 2.17609
+[Epoch 0, batch 100] loss: 1.17770
+[Epoch 0, batch 150] loss: 0.88730
